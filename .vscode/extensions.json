@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vadimcn.vscode-lldb",
+    "usernamehw.errorlens",
+    "tamasfe.even-better-toml",
+    "rust-lang.rust-analyzer"
+  ]
+}
